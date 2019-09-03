@@ -71,7 +71,7 @@ class PusherClientMessageTest extends TestCase
             [
                 'name' => 'Test App',
                 'id' => 1234,
-                'key' => 'TestKet',
+                'key' => 'TestKey',
                 'secret' => 'TestSecret',
                 'enable_client_messages' => true,
                 'dispatch_events_for_client_messages' => ['client-test'],

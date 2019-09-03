@@ -23,6 +23,8 @@ Please see [CHANGELOG](CHANGELOG.md) for more information on what has changed re
 
 Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
+To test you must have sqlite3 and php7.2-sqlite3 installed
+
 ### Security
 
 If you discover any security related issues, please email marcel@beyondco.de instead of using the issue tracker.
