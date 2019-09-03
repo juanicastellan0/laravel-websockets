@@ -1,15 +1,6 @@
 # Laravel WebSockets 🛰
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/beyondcode/laravel-websockets.svg?style=flat-square)](https://packagist.org/packages/beyondcode/laravel-websockets)
-[![Build Status](https://img.shields.io/travis/beyondcode/laravel-websockets/master.svg?style=flat-square)](https://travis-ci.org/beyondcode/laravel-websockets)
-[![Quality Score](https://img.shields.io/scrutinizer/g/beyondcode/laravel-websockets.svg?style=flat-square)](https://scrutinizer-ci.com/g/beyondcode/laravel-websockets)
-[![Total Downloads](https://img.shields.io/packagist/dt/beyondcode/laravel-websockets.svg?style=flat-square)](https://packagist.org/packages/beyondcode/laravel-websockets)
-
 Bring the power of WebSockets to your Laravel application. Drop-in Pusher replacement, SSL support, Laravel Echo support and a debug dashboard are just some of its features.
-
-[![https://phppackagedevelopment.com](https://beyondco.de/courses/phppd.jpg)](https://phppackagedevelopment.com)
-
-If you want to learn how to create reusable PHP packages yourself, take a look at my upcoming [PHP Package Development](https://phppackagedevelopment.com) video course.
 
 ## Documentation
 
